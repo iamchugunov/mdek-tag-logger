@@ -1,0 +1,1 @@
+pyuic5 -x mdek-tag-logger.ui -o mdek_tag_logger.py
